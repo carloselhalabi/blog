@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://carloselhalabi.github.io/blog" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -64,6 +64,8 @@ paginate_path: "blog/page:num"
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: pygments
+gems:
+    - jekyll-compass
 sass:
   sass_dir: _sass
   style: :compressed

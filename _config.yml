@@ -5,7 +5,7 @@ url: "https://carloselhalabi.github.io/blog" # the base hostname & protocol for 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Nameless, yet. 
+  title: /dev/life 
   avatar: avatar.jpg
   gravatar: # Email MD5 hash
   description: "A blog to remind my future self that we're not absolute, but evolving things." # used by search engines

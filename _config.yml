@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: /blog # the subpath of your site, e.g. /blog/
 url: "https://carloselhalabi.github.io/blog" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Carlos El Halabi 
+  title: /dev/life - a personal blog. 
   avatar: avatar.jpg
   gravatar: # Email MD5 hash
-  description: "Un blog sobre tecnologia, privacidad y filosofia." # used by search engines
+  description: "A blog to remind my future self that we're not absolute, but evolving things." # used by search engines
 
   # Header and footer text
   header_text: >

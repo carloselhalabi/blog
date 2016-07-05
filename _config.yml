@@ -1,8 +1,7 @@
 # SITE CONFIGURATION
-baseurl: /blog # the subpath of your site, e.g. /blog/
-url: "https://carloselhalabi.github.io" # the base hostname & protocol for your site
+baseurl: /blog # the subpath of the site
+url: "https://carloselhalabi.github.io" # the base hostname & protocol 
 
-# THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
   title: /dev/life - a personal blog 
@@ -39,17 +38,17 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-80309757-1"  # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow my RSS feed"
+  str_follow_on: "Sígueme"
+  str_rss_follow: "Sigue mi feed RSS"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next: "Siguiente"
+  str_prev: "Anterior"
+  str_continue_reading: "Sigue leyendo"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"

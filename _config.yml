@@ -6,7 +6,6 @@ theme:
   # Meta
   title: /dev/life - a personal blog 
   avatar: avatar.jpg
-  gravatar: # Email MD5 hash
   description: "A blog to remind my future self that we're not absolute, but evolving things." # used by search engines
 
   # Header and footer text
@@ -17,30 +16,16 @@ theme:
    Made with something people call 'love'. Powered by the magic of <a href="http://jekyllrb.com">Jekyll</a> with a modified version of <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   # Icons
   rss: true 
-  email_address: "c@elhalabi.org" # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
+  email_address: "c@elhalabi.org" 
   facebook: "carloselhalabi"
-  flickr:
   github: "carloselhalabi"
-  google_plus:
   instagram: "carloselhalabi"
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
   twitter: "carloselhalabi"
-  wordpress:
-  youtube:
 
   # Scripts
-  google_analytics: "UA-80309757-1"  # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-80309757-1"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: true 
 
   # Localization strings
   str_follow_on: "Sígueme"
@@ -51,7 +36,6 @@ theme:
   str_continue_reading: "Sigue leyendo"
 
   # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
 google_fonts: "Source+Sans+Pro:400,700,700italic,400italic|Playfair+Display:400,700|PT+Sans:400,700,700italic,400italic"
   # Post navigation
 post_navigation: true

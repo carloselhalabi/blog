@@ -14,6 +14,7 @@ theme:
   header_text_feature_image: "img/nietzsche.jpg"
   footer_text: >
    Made with something people call 'love'. Powered by the magic of <a href="http://jekyllrb.com">Jekyll</a> with a modified version of <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+
   # Icons
   rss: true 
   email_address: "c@elhalabi.org" 

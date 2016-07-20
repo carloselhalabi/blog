@@ -9,13 +9,13 @@ highlighter: pygments
 
 paginate: 10
 baseurl: /
-domain_name: 'http://elhalabi.org/blog'
+domain_name: 'http://carloselhalabi.github.io/blog'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'carloselhalabi'
 
 # Details for the RSS feed generator
-url:            'http://elhalabi.org/feed.xml'
+url:            'http://carloselhalabi.github.io/feed.xml'
 author:         'Carlos El Halabi'
 authorTwitter:  'carloselhalabi'
 

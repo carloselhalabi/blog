@@ -4,6 +4,6 @@ permalink: a/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Pronto habrá algo aquí, mantente sintonizado. :)
 
 {% include footer.html %}

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: La educaci&oacute;n necesita revolucionar y los part&iacute;cipes soñar 
+description: Un viejo post que decid&iacute; publicar como pata inicial a este
+blog. 
 ---
 ***&Eacute;sto lo publiqu&eacute; en un antiguo blog cuando ten&iacute;a 15 años. El post original a&uacute;n existe [aqu&iacute;](http://elhalabi.tumblr.com/post/26531490535/la-educaci%C3%B3n-necesita-revolucionar-y-los "La eduaci&oacute;n necesita revolucionar...").***
 

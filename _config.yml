@@ -1,55 +1,45 @@
-# SITE CONFIGURATION
-baseurl: /blog # the subpath of the site
-url: "https://carloselhalabi.github.io" # the base hostname & protocol 
+name: Carlos El Halabi 
+description: Un blog sobre tecnolog&iacute;a, privacidad y filosof&iacute;a. 
+meta_description: "Tech, privacy and philosophy."
 
-theme:
-  # Meta
-  title: /dev/life - a personal blog 
-  avatar: avatar.jpg
-  description: "A blog to remind my future self that we're not absolute, but evolving things." # used by search engines
+aboutPage: true
 
-  # Header and footer text
-  header_text: >
-      <p> To live is to suffer, to survive is to find meaning in the suffering. <br> &mdash; <strong>Friedrich Nietzsche</strong></p>
-  header_text_feature_image: "img/nietzsche.jpg"
-  footer_text: >
-   Made with something people call 'love'. Powered by the magic of <a href="http://jekyllrb.com">Jekyll</a> with a modified version of <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-
-  # Icons
-  rss: true 
-  email_address: "c@elhalabi.org" 
-  facebook: "carloselhalabi"
-  github: "carloselhalabi"
-  instagram: "carloselhalabi"
-  twitter: "carloselhalabi"
-
-  # Scripts
-  google_analytics: "UA-80309757-1"
-  disqus_shortname:
-  katex: true 
-
-  # Localization strings
-  str_follow_on: "Sígueme"
-  str_rss_follow: "Sigue mi feed RSS"
-  str_email: "Email"
-  str_next: "Siguiente"
-  str_prev: "Anterior"
-  str_continue_reading: "Sigue leyendo"
-
-  # Colours, typography and padding
-google_fonts: "Source+Sans+Pro:400,700,700italic,400italic|Playfair+Display:400,700|PT+Sans:400,700,700italic,400italic"
-  # Post navigation
-post_navigation: true
-
-# PAGINATION
-paginate: 6
-paginate_path: "blog/page:num"
-
-# BUILD SETTINGS
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
+
+paginate: 10
+baseurl: /
+domain_name: 'http://carloselhalabi.github.io/blog'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'carloselhalabi'
+
+# Details for the RSS feed generator
+url:            'http://carloselhalabi.github.io/feed.xml'
+author:         'Carlos El Halabi'
+authorTwitter:  'carloselhalabi'
+
+permalink:       /:year/:title/
+
 gems:
-    - jekyll-compass
-sass:
-  sass_dir: _sass
-  style: :compressed
+  [jekyll-paginate]
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post

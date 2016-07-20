@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Firefox OS no est&aacute; muerto, los medios serios s&iacute;
-excerpt_separator: <!--more-->
+description: Un rant de odio hacia aquellos 'medios' que no hacen su tarea
 ---
-Les contaré una historia muy peculiar y que parece repetirse infinitamente en muchos medios (*coff coff blogs*) <!--more-->: <br><br>
+Les contaré una historia muy peculiar y que parece repetirse infinitamente en muchos medios (*coff coff blogs*): <br><br>
 <h3>Cap&iacute;tulo 1: Mister Tuitero</h3><br>
 Conozcan a ***Mister Tuitero.*** Un día cualquiera, *Mister Tuitero* (que trabaja en "Famosa Empresa de Internet") asiste a un evento. *Mister Tuitero* se entera, como muchos otros, que *Famosa Empresa de Internet* decide hacer cambios en un proyecto que viene impulsando desde hace años. Es un proyecto con **apoyo de la comunidad**, y con un enfoque &uacute;nico y agradable. Nuestro amigo, *Mister Tuitero*, publica un tuit dando su opinión de lo recién anunciado: <br>
 <blockquote class="twitter-tweet" lang="es"><p lang="en" dir="ltr">Firefox OS is dead. Long live Firefox OS! <a href="https://twitter.com/hashtag/mozlando?src=hash">#mozlando</a></p>&mdash; Gabriele Svelto (@gabrielesvelto) <a href="https://twitter.com/gabrielesvelto/status/674253168675586049">diciembre 8, 2015</a></blockquote>

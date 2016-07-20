@@ -8,8 +8,8 @@ highlighter: pygments
 
 paginate: 10
 baseurl: /blog
-domain_name: 'http://carloselhalabi.github.io'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'https://carloselhalabi.github.io'
+google_analytics: 'UA-80309757-1'
 disqus: false
 disqus_shortname: 'carloselhalabi'
 

@@ -3,7 +3,7 @@ layout: post
 title: Recordando a Albert Camus
 description: Una memoria de la gran persona que fue Albert Camus...
 ---
-![Albert Camus (1913-1960)](/assets/images/Albert-Camus.jpg)
+![Albert Camus (1913-1960)]({{ site.baseurl}}/assets/images/Albert-Camus.jpg)
 
 Pienso que uno debería recordar (*¿o endulzar?*) la muerte de los soñadores con recuerdos de su obra, para recordarnos a nosotros mismos que a pesar de *todo*, vivieron plenamente. En un día como hoy, 4 de enero de 1960, [Albert Camus](https://es.wikipedia.org/wiki/Albert_Camus) muere en un accidente automovilístico, y quisiera recordarlo con un fragmento de su correspondencia (en [Notebooks](http://www.amazon.com/Notebooks-1951-1959-Volume-Albert-Camus/dp/156663850X)) que significa mucho para mi: 
 

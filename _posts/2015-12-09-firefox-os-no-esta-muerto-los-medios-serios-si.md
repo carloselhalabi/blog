@@ -12,7 +12,7 @@ Conozcan a ***Mister Tuitero.*** Un día cualquiera, *Mister Tuitero* (que traba
 Les presento a nuestro amigo **El Profesional del Medio**, un apasionado blogger que publica lo primero que se le atraviesa en la pantalla. *El Profesional del Medio* lee el tuit de Mister Tuitero, y cree en la fiabilidad de lo que dice. El *Profesional del Medio* ve un titular de *noticia* perfecto y muy jugoso (¿alguien dijo publicidad?). Se lo propone a su grupo editor. Lo escribe. Y [se
 publica](http://techcrunch.com/2015/12/08/mozilla-will-stop-developing-and-selling-firefox-os-smartphones/). Minutos después... ésto pasa:
 <br><br>
-![CLICKBAIT ALERT: TechCrunch says that Mozilla will Stop Developing and Selling Firefox OS Smartphones]( {{ site.baseurl }}/img/clickbait.png)
+![CLICKBAIT ALERT: TechCrunch says that Mozilla will Stop Developing and Selling Firefox OS Smartphones]( {{ site.baseurl }}/assets/images/clickbait.png)
 <br><br>
 Gracias a la publicaci&oacute;n de *El Blog Famoso* la noticia comienza a expandirse como la p&oacute;lvora... Todos quieren un pedazo de torta (pageviews, anuncios, clicks) que semejante titular promete dar. Y los hambrientos ***Niños Repetidores*** (los que buscan fama y dinero) comienzan a hacer eco de la publicaci&oacute;n de *El Blog Famoso*:
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Recordando a Albert Camus
-description: Una memoria de la gran persona que fue Albert Camus. Y de como
-ninguno de nosotros escapa la muerte.
+description: Una memoria de la gran persona que fue Albert Camus...
 ---
 ![Albert Camus (1913-1960)](/assets/images/Albert-Camus.jpg)
 

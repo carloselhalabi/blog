@@ -4,13 +4,13 @@ meta_description: "Tech, privacy and philosophy."
 
 aboutPage: true
 
-highlighter: pygments
+highlighter: rouge 
 
 paginate: 10
 baseurl: /blog
 domain_name: 'https://carloselhalabi.github.io'
 google_analytics: 'UA-80309757-1'
-disqus: false
+disqus: true 
 disqus_shortname: 'carloselhalabi'
 
 # Details for the RSS feed generator
